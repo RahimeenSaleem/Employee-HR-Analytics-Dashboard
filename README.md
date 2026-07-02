@@ -133,30 +133,29 @@ Forecasts future workforce trends using Power BI forecasting.
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-## Employee Dashboard
+### Employee Dashboard
 
-![Employee Dashboard](Images/page1-dashboard.png)
-
----
-
-## Business Questions
-
-![Business Questions](Images/page2-business-questions.png)
+![Employee Dashboard](Images/Dashboard.png)
 
 ---
 
-## Employee Attrition Report
+### Business Questions
 
-![Employee Attrition](Images/page3-employee-attrition.png)
+![Business Questions](Images/Business%20Qs.png)
 
 ---
 
-## HR Forecasting
+### Employee Attrition Report
 
-![HR Forecasting](Images/page4-forecasting.png)
+![Employee Attrition Report](Images/Employee%20Attrition%20Report.png)
 
+---
+
+### HR Forecasting
+
+![HR Forecasting](Images/HR%20Forecasting.png)
 ---
 
 # 📁 Repository Structure
